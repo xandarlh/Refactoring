@@ -4,3 +4,9 @@ C:\Users\alex303a\source\repos\Refactoring\Refactoring\bin\Debug\Refactoring.pdb
 C:\Users\alex303a\source\repos\Refactoring\Refactoring\obj\Debug\Refactoring.csprojAssemblyReference.cache
 C:\Users\alex303a\source\repos\Refactoring\Refactoring\obj\Debug\Refactoring.exe
 C:\Users\alex303a\source\repos\Refactoring\Refactoring\obj\Debug\Refactoring.pdb
+C:\Users\alex303a\Documents\GitHub\Refactoring\Refactoring\bin\Debug\Refactoring.exe.config
+C:\Users\alex303a\Documents\GitHub\Refactoring\Refactoring\bin\Debug\Refactoring.exe
+C:\Users\alex303a\Documents\GitHub\Refactoring\Refactoring\bin\Debug\Refactoring.pdb
+C:\Users\alex303a\Documents\GitHub\Refactoring\Refactoring\obj\Debug\Refactoring.csprojAssemblyReference.cache
+C:\Users\alex303a\Documents\GitHub\Refactoring\Refactoring\obj\Debug\Refactoring.exe
+C:\Users\alex303a\Documents\GitHub\Refactoring\Refactoring\obj\Debug\Refactoring.pdb

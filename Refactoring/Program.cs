@@ -40,31 +40,16 @@ namespace Refactoring
 
             network.DisplayDhcpServerAddresses();
 
+            PCInfo pCInfo = new PCInfo();
 
             string hostName = "ZBC-E-ALEX303A";
-            //WIN-M69SG2Q0732.test.local
-            //ZBC-RG01203MKC
+            
 
-            IPHostEntry hostInfo = Dns.GetHostByName(hostName);
+            Console.WriteLine(pCInfo.GetHostAddresses(hostName));
 
-            // Get the IP address list that resolves to the host names contained in the 
-            // Alias property.
-            IPAddress[] address = hostInfo.AddressList;
-            // Get the alias names of the addresses in the IP address list.
-            String[] alias = hostInfo.Aliases;
+            Console.WriteLine(pCInfo.GetHostAliases(hostName));
 
-            Console.WriteLine("Host name : " + hostInfo.HostName);
-            Console.WriteLine("\nAliases : ");
-            for (int index = 0; index < alias.Length; index++)
-            {
-                Console.WriteLine(alias[index]);
-            }
-            Console.WriteLine("\nIP address list : ");
-            for (int index = 0; index < address.Length; index++)
-            {
-                Console.WriteLine(address[index]);
-            }
-
+            
             Console.ReadKey();
         }
     }
